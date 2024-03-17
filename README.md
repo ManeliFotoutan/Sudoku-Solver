@@ -1,4 +1,4 @@
-"# Sudoku-Solver" 
+## Sudoku Solver 
 
 This is a Sudoku solver implemented in Python using the Pygame library. The program allows users to input a Sudoku puzzle and then solves it using a backtracking algorithm.
 
